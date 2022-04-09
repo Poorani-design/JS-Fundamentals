@@ -248,3 +248,5 @@ console.log(Array.includes("Banana"));
 console.log("=====================finding an element in Array =============");
 
 
+console.log("===================Project added in github ================");
+
